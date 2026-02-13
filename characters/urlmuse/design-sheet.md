@@ -49,17 +49,17 @@
 | # | 표정 | 파일명 | 상태 |
 |---|------|--------|------|
 | 1 | 인사/경례 | `salute.png` | ✅ 완료 |
-| 2 | 긍정/동의 | `thumbsup.png` | 📋 예정 |
-| 3 | 성공/축하 | `success.png` | 📋 예정 |
-| 4 | 고민/분석 | `thinking.png` | 📋 예정 |
-| 5 | 아이디어! | `idea.png` | 📋 예정 |
-| 6 | 코딩 중 | `typing.png` | 📋 예정 |
-| 7 | 당황/에러 | `panic.png` | 📋 예정 |
-| 8 | 화남/분발 | `angry.png` | 📋 예정 |
-| 9 | 울음/억울 | `crying.png` | 📋 예정 |
-| 10 | 커피타임 | `coffee.png` | 📋 예정 |
-| 11 | 졸림/지침 | `sleepy.png` | 📋 예정 |
-| 12 | 신남/흥분 | `excited.png` | 📋 예정 |
+| 2 | 긍정/동의 | `thumbsup.png` | ✅ 완료 |
+| 3 | 성공/축하 | `success.png` | ✅ 완료 |
+| 4 | 고민/분석 | `thinking.png` | ✅ 완료 |
+| 5 | 아이디어! | `idea.png` | ✅ 완료 |
+| 6 | 코딩 중 | `typing.png` | ✅ 완료 |
+| 7 | 당황/에러 | `panic.png` | ✅ 완료 |
+| 8 | 화남/분발 | `angry.png` | ✅ 완료 |
+| 9 | 울음/억울 | `crying.png` | ✅ 완료 |
+| 10 | 커피타임 | `coffee.png` | ✅ 완료 |
+| 11 | 졸림/지침 | `sleepy.png` | ✅ 완료 |
+| 12 | 신남/흥분 | `excited.png` | ✅ 완료 |
 
 ## 🔗 이미지 URL 형식
 
